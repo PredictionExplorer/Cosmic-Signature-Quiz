@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "question": "What type of game is Cosmic Signature?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A prediction market where you bet on outcomes"
+      },
+      {
+        "label": "B",
+        "text": "A last-bidder-wins auction game"
+      },
+      {
+        "label": "C",
+        "text": "A yield-farming protocol"
+      },
+      {
+        "label": "D",
+        "text": "A decentralized token exchange"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "question": "On which blockchain does Cosmic Signature run?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ethereum mainnet"
+      },
+      {
+        "label": "B",
+        "text": "Polygon"
+      },
+      {
+        "label": "C",
+        "text": "Arbitrum"
+      },
+      {
+        "label": "D",
+        "text": "Optimism"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "question": "What are the two ways you can place a bid in the game?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bitcoin and ETH"
+      },
+      {
+        "label": "B",
+        "text": "ETH and Cosmic Signature Token (CST)"
+      },
+      {
+        "label": "C",
+        "text": "USDC and ETH"
+      },
+      {
+        "label": "D",
+        "text": "CST and DAI"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "question": "What happens when the round timer expires?",
+    "options": [
+      {
+        "label": "A",
+        "text": "All bids are refunded"
+      },
+      {
+        "label": "B",
+        "text": "The first bidder wins the main prize"
+      },
+      {
+        "label": "C",
+        "text": "The last bidder can claim the main prize"
+      },
+      {
+        "label": "D",
+        "text": "The round restarts automatically"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "question": "What is the ticker symbol for the Cosmic Signature Token?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CSS"
+      },
+      {
+        "label": "B",
+        "text": "COSIG"
+      },
+      {
+        "label": "C",
+        "text": "CST"
+      },
+      {
+        "label": "D",
+        "text": "CGT"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "question": "What is the ticker symbol for the Cosmic Signature NFT?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CST"
+      },
+      {
+        "label": "B",
+        "text": "COSMIC"
+      },
+      {
+        "label": "C",
+        "text": "CSNFT"
+      },
+      {
+        "label": "D",
+        "text": "RWLK"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "question": "What is the ticker symbol for the Random Walk NFT?",
+    "options": [
+      {
+        "label": "A",
+        "text": "RWN"
+      },
+      {
+        "label": "B",
+        "text": "RWLK"
+      },
+      {
+        "label": "C",
+        "text": "WALK"
+      },
+      {
+        "label": "D",
+        "text": "RAND"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "question": "What does the Endurance Champion title recognize?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The player who placed the most total bids in a round"
+      },
+      {
+        "label": "B",
+        "text": "The player who remained the last bidder for the longest single unbroken stretch of time"
+      },
+      {
+        "label": "C",
+        "text": "The player who spent the most ETH in a single bid"
+      },
+      {
+        "label": "D",
+        "text": "The player who spent the most CST in a round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "question": "What does the Chrono-Warrior title recognize?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The player who placed the fastest bid in a round"
+      },
+      {
+        "label": "B",
+        "text": "The player who held the Endurance Champion record for the longest continuous period"
+      },
+      {
+        "label": "C",
+        "text": "The player who placed the most bids within one minute"
+      },
+      {
+        "label": "D",
+        "text": "The player who always placed the first bid in every round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "question": "Who receives the main ETH prize when a round ends?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Endurance Champion"
+      },
+      {
+        "label": "B",
+        "text": "The Chrono-Warrior"
+      },
+      {
+        "label": "C",
+        "text": "The person who claims it -- normally the last bidder, or anyone if the last bidder waits too long"
+      },
+      {
+        "label": "D",
+        "text": "A randomly selected bidder"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 11,
+    "question": "What is the name of the main game that runs the bidding rounds?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cosmic Token Game"
+      },
+      {
+        "label": "B",
+        "text": "Prizes Wallet"
+      },
+      {
+        "label": "C",
+        "text": "Cosmic Signature Game"
+      },
+      {
+        "label": "D",
+        "text": "Cosmic Signature DAO"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 12,
+    "question": "What kind of token is CST?",
+    "options": [
+      {
+        "label": "A",
+        "text": "An NFT (non-fungible token)"
+      },
+      {
+        "label": "B",
+        "text": "A multi-token (like game items)"
+      },
+      {
+        "label": "C",
+        "text": "A standard fungible token (like a currency)"
+      },
+      {
+        "label": "D",
+        "text": "A wrapped version of ETH"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 13,
+    "question": "What kind of token is the Cosmic Signature NFT?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A fungible currency token"
+      },
+      {
+        "label": "B",
+        "text": "A multi-token (like game items)"
+      },
+      {
+        "label": "C",
+        "text": "A unique collectible (non-fungible token)"
+      },
+      {
+        "label": "D",
+        "text": "A stablecoin"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 14,
+    "question": "What is the purpose of the Charity Wallet?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To hold CST tokens for marketing"
+      },
+      {
+        "label": "B",
+        "text": "To receive and hold ETH that will be donated to charity"
+      },
+      {
+        "label": "C",
+        "text": "To store staking rewards"
+      },
+      {
+        "label": "D",
+        "text": "To manage DAO governance proposals"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 15,
+    "question": "What is the purpose of the Marketing Wallet?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To distribute ETH to bidders"
+      },
+      {
+        "label": "B",
+        "text": "To hold CST that will be used for marketing initiatives"
+      },
+      {
+        "label": "C",
+        "text": "To manage the charity fund"
+      },
+      {
+        "label": "D",
+        "text": "To store Cosmic Signature NFTs"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 16,
+    "question": "How does the Cosmic Signature community make governance decisions?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A multi-signature wallet controlled by the team"
+      },
+      {
+        "label": "B",
+        "text": "A DAO (Decentralized Autonomous Organization) where CST holders vote"
+      },
+      {
+        "label": "C",
+        "text": "Off-chain voting on Snapshot"
+      },
+      {
+        "label": "D",
+        "text": "There is no governance mechanism"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 17,
+    "question": "What type of bid must always be placed first in every new bidding round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A CST bid"
+      },
+      {
+        "label": "B",
+        "text": "An ETH bid"
+      },
+      {
+        "label": "C",
+        "text": "A Random Walk NFT bid"
+      },
+      {
+        "label": "D",
+        "text": "Any type of bid is acceptable as the first bid"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 18,
+    "question": "What happens to the round's countdown timer when a player places a new bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The timer decreases"
+      },
+      {
+        "label": "B",
+        "text": "The deadline is pushed further into the future"
+      },
+      {
+        "label": "C",
+        "text": "The player's previous bid is refunded"
+      },
+      {
+        "label": "D",
+        "text": "All other bids are cancelled"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 19,
+    "question": "What is the Prizes Wallet used for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Holding the main ETH prize only"
+      },
+      {
+        "label": "B",
+        "text": "Safekeeping secondary prizes, donated tokens, and donated NFTs until winners withdraw them"
+      },
+      {
+        "label": "C",
+        "text": "Managing the CST token supply"
+      },
+      {
+        "label": "D",
+        "text": "Running the Dutch auction"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 20,
+    "question": "How many stages does each bidding round go through?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 -- active and finished"
+      },
+      {
+        "label": "B",
+        "text": "3 -- inactive (waiting period), active but awaiting the first bid, and fully active after the first bid"
+      },
+      {
+        "label": "C",
+        "text": "4 -- pending, open, closing, finished"
+      },
+      {
+        "label": "D",
+        "text": "1 -- active only"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 21,
+    "question": "Who has the ability to create new CST tokens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Any CST holder"
+      },
+      {
+        "label": "B",
+        "text": "The game administrator"
+      },
+      {
+        "label": "C",
+        "text": "Only the Cosmic Signature Game itself (automatically, as part of game mechanics)"
+      },
+      {
+        "label": "D",
+        "text": "The Marketing Wallet"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 22,
+    "question": "Can the Cosmic Signature Game be upgraded after deployment?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, it is completely fixed forever"
+      },
+      {
+        "label": "B",
+        "text": "Yes, but only between rounds (when no bidding round is active) and only by the game owner"
+      },
+      {
+        "label": "C",
+        "text": "Yes, at any time by anyone"
+      },
+      {
+        "label": "D",
+        "text": "Only through a DAO vote during an active round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 23,
+    "question": "What discount does using a Random Walk NFT provide on an ETH bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25% discount"
+      },
+      {
+        "label": "B",
+        "text": "10% discount"
+      },
+      {
+        "label": "C",
+        "text": "50% discount"
+      },
+      {
+        "label": "D",
+        "text": "75% discount"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 24,
+    "question": "How many times can a single Random Walk NFT be used for a discounted bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Unlimited times"
+      },
+      {
+        "label": "B",
+        "text": "Once per round"
+      },
+      {
+        "label": "C",
+        "text": "Only once -- ever"
+      },
+      {
+        "label": "D",
+        "text": "Twice"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 25,
+    "question": "What instant reward does every bidder receive each time they place a bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "An NFT"
+      },
+      {
+        "label": "B",
+        "text": "An ETH refund"
+      },
+      {
+        "label": "C",
+        "text": "Freshly created CST tokens"
+      },
+      {
+        "label": "D",
+        "text": "DAO voting rights"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 26,
+    "question": "How does the ETH bid price behave at the start of a new round before anyone has bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It starts low and rises over time (English auction style)"
+      },
+      {
+        "label": "B",
+        "text": "It is a sealed-bid format where you submit a hidden price"
+      },
+      {
+        "label": "C",
+        "text": "It starts high and drops over time (Dutch auction style)"
+      },
+      {
+        "label": "D",
+        "text": "It is a fixed price"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 27,
+    "question": "How does the CST bid price behave over time?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It starts low and rises (English auction style)"
+      },
+      {
+        "label": "B",
+        "text": "It starts high and drops over time toward zero (Dutch auction style)"
+      },
+      {
+        "label": "C",
+        "text": "It is a fixed price"
+      },
+      {
+        "label": "D",
+        "text": "It is a sealed-bid format"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 28,
+    "question": "What does staking a Cosmic Signature NFT earn you?",
+    "options": [
+      {
+        "label": "A",
+        "text": "More CST tokens"
+      },
+      {
+        "label": "B",
+        "text": "A share of ETH rewards distributed each round"
+      },
+      {
+        "label": "C",
+        "text": "Random Walk NFTs"
+      },
+      {
+        "label": "D",
+        "text": "DAO governance voting power"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 29,
+    "question": "What does staking a Random Walk NFT earn you?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Direct ETH rewards"
+      },
+      {
+        "label": "B",
+        "text": "Eligibility for a raffle to win Cosmic Signature NFTs and CST"
+      },
+      {
+        "label": "C",
+        "text": "Direct CST tokens each round"
+      },
+      {
+        "label": "D",
+        "text": "A discount on CST bids"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 30,
+    "question": "What is the name of the DAO that governs Cosmic Signature?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cosmic Signature Governor"
+      },
+      {
+        "label": "B",
+        "text": "Cosmic Signature DAO"
+      },
+      {
+        "label": "C",
+        "text": "CST Governance"
+      },
+      {
+        "label": "D",
+        "text": "Cosmic Voting"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 31,
+    "question": "What happens to the round number each time a main prize is claimed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It resets to 0"
+      },
+      {
+        "label": "B",
+        "text": "It increases by 1 (the next round begins)"
+      },
+      {
+        "label": "C",
+        "text": "It stays the same"
+      },
+      {
+        "label": "D",
+        "text": "It doubles"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 32,
+    "question": "Can players donate ETH directly to increase the prize pool?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, all ETH in the game must come from bids"
+      },
+      {
+        "label": "B",
+        "text": "Yes, players can donate ETH to the game at any time"
+      },
+      {
+        "label": "C",
+        "text": "Only the game owner can add ETH"
+      },
+      {
+        "label": "D",
+        "text": "Only through the Charity Wallet"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 33,
+    "question": "If you simply send ETH to the game's address without calling any specific action, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The ETH is rejected and returned"
+      },
+      {
+        "label": "B",
+        "text": "The ETH is donated to charity"
+      },
+      {
+        "label": "C",
+        "text": "It is treated as an ETH bid with default settings"
+      },
+      {
+        "label": "D",
+        "text": "The ETH is stored for the next round"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 34,
+    "question": "How many different prize categories are distributed when a round ends?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 (Main Prize and Charity)"
+      },
+      {
+        "label": "B",
+        "text": "4 (Main Prize, Chrono-Warrior, Endurance Champion, Last CST Bidder)"
+      },
+      {
+        "label": "C",
+        "text": "7 or more (Main Prize, Last CST Bidder, Endurance Champion, Chrono-Warrior, Bidder Raffles, Staker Raffles, Charity, Marketing)"
+      },
+      {
+        "label": "D",
+        "text": "1 (Main Prize only)"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 35,
+    "question": "CST tokens can be used for voting in the DAO. True or false?",
+    "options": [
+      {
+        "label": "A",
+        "text": "False -- CST has no voting capability"
+      },
+      {
+        "label": "B",
+        "text": "True -- holding CST gives you voting power in the DAO"
+      },
+      {
+        "label": "C",
+        "text": "False -- there is a separate voting token"
+      },
+      {
+        "label": "D",
+        "text": "True -- but only if your CST is staked"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 36,
+    "question": "What is the approximate maximum length of a message you can attach to a bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "About 140 characters"
+      },
+      {
+        "label": "B",
+        "text": "About 256 characters"
+      },
+      {
+        "label": "C",
+        "text": "About 280 characters"
+      },
+      {
+        "label": "D",
+        "text": "About 512 characters"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 37,
+    "question": "What is the default waiting period between the end of one round and the start of the next?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 hour"
+      },
+      {
+        "label": "B",
+        "text": "30 minutes"
+      },
+      {
+        "label": "C",
+        "text": "24 hours"
+      },
+      {
+        "label": "D",
+        "text": "7 days"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 38,
+    "question": "Where does the charity ETH go at the end of each round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To the Marketing Wallet"
+      },
+      {
+        "label": "B",
+        "text": "To a designated charity address configured in the game"
+      },
+      {
+        "label": "C",
+        "text": "To a randomly selected bidder"
+      },
+      {
+        "label": "D",
+        "text": "To the game owner"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 39,
+    "question": "Where does the marketing CST go at the end of each round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To the charity address"
+      },
+      {
+        "label": "B",
+        "text": "To a designated Marketing Wallet"
+      },
+      {
+        "label": "C",
+        "text": "To the last bidder"
+      },
+      {
+        "label": "D",
+        "text": "Divided equally among all bidders"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 40,
+    "question": "Can an NFT that has been staked once and then unstaked be staked again?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, unlimited times"
+      },
+      {
+        "label": "B",
+        "text": "Yes, once per round"
+      },
+      {
+        "label": "C",
+        "text": "No -- each NFT can only ever be staked once in its lifetime"
+      },
+      {
+        "label": "D",
+        "text": "Yes, if you wait one full round"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 41,
+    "question": "What happens if the charity ETH transfer fails during prize distribution at round end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The entire round-ending process fails and everything is reversed"
+      },
+      {
+        "label": "B",
+        "text": "The charity transfer silently fails but the round still ends normally -- no prizes are affected"
+      },
+      {
+        "label": "C",
+        "text": "The ETH is sent to the game owner instead"
+      },
+      {
+        "label": "D",
+        "text": "The charity amount is added to the next round's prize pool automatically"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 42,
+    "question": "What is the initial starting ETH bid price in the very first round of the game?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.01 ETH"
+      },
+      {
+        "label": "B",
+        "text": "0.001 ETH"
+      },
+      {
+        "label": "C",
+        "text": "0.0001 ETH"
+      },
+      {
+        "label": "D",
+        "text": "1 ETH"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 43,
+    "question": "Can a player bid with both ETH and donate an NFT to the prize pool in the same transaction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, these must be separate actions"
+      },
+      {
+        "label": "B",
+        "text": "Yes, the game supports combined bid-and-donate actions"
+      },
+      {
+        "label": "C",
+        "text": "Only the game owner can donate NFTs"
+      },
+      {
+        "label": "D",
+        "text": "NFT donations are not supported"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 44,
+    "question": "Who can set a custom name for a Cosmic Signature NFT?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anyone"
+      },
+      {
+        "label": "B",
+        "text": "Only the game owner"
+      },
+      {
+        "label": "C",
+        "text": "The person who owns or is authorized to manage that NFT"
+      },
+      {
+        "label": "D",
+        "text": "Only the game itself"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 45,
+    "question": "What is the starting mint price for a Random Walk NFT?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.01 ETH"
+      },
+      {
+        "label": "B",
+        "text": "0.1 ETH"
+      },
+      {
+        "label": "C",
+        "text": "0.001 ETH"
+      },
+      {
+        "label": "D",
+        "text": "Free"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 46,
+    "question": "In the Random Walk NFT game, what percentage of that NFT contract's balance can the last minter withdraw?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100%"
+      },
+      {
+        "label": "B",
+        "text": "25%"
+      },
+      {
+        "label": "C",
+        "text": "50%"
+      },
+      {
+        "label": "D",
+        "text": "10%"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 47,
+    "question": "How long must pass after the last Random Walk NFT mint before the last minter can withdraw their share?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7 days"
+      },
+      {
+        "label": "B",
+        "text": "14 days"
+      },
+      {
+        "label": "C",
+        "text": "30 days"
+      },
+      {
+        "label": "D",
+        "text": "60 days"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "basic"
+  },
+  {
+    "id": 48,
+    "question": "What role does the \"treasurer\" play in the Marketing Wallet?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They manage game configuration settings"
+      },
+      {
+        "label": "B",
+        "text": "They distribute CST rewards to marketing partners and ambassadors"
+      },
+      {
+        "label": "C",
+        "text": "They set the charity address"
+      },
+      {
+        "label": "D",
+        "text": "They create new CST tokens"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 49,
+    "question": "Can anyone trigger the Charity Wallet to send its funds to the designated charity?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, anyone can trigger the send"
+      },
+      {
+        "label": "B",
+        "text": "Only the charity address itself can receive funds"
+      },
+      {
+        "label": "C",
+        "text": "Only the game owner can trigger it"
+      },
+      {
+        "label": "D",
+        "text": "Only the game itself can trigger it"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "basic"
+  },
+  {
+    "id": 50,
+    "question": "What happens if you send less ETH than the current bid price when trying to bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The bid goes through at a lower price"
+      },
+      {
+        "label": "B",
+        "text": "The transaction fails and your ETH is returned"
+      },
+      {
+        "label": "C",
+        "text": "The ETH is donated to the game instead"
+      },
+      {
+        "label": "D",
+        "text": "You are placed in a queue until prices drop"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "basic"
+  },
+  {
+    "id": 51,
+    "question": "What percentage of the game's ETH balance is paid as the main prize at round end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50%"
+      },
+      {
+        "label": "B",
+        "text": "10%"
+      },
+      {
+        "label": "C",
+        "text": "25%"
+      },
+      {
+        "label": "D",
+        "text": "30%"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 52,
+    "question": "What percentage of the game's ETH balance is awarded to the Chrono-Warrior?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5%"
+      },
+      {
+        "label": "B",
+        "text": "8%"
+      },
+      {
+        "label": "C",
+        "text": "10%"
+      },
+      {
+        "label": "D",
+        "text": "15%"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "question": "What percentage of the game's ETH balance is donated to charity at round end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10%"
+      },
+      {
+        "label": "B",
+        "text": "5%"
+      },
+      {
+        "label": "C",
+        "text": "7%"
+      },
+      {
+        "label": "D",
+        "text": "3%"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 54,
+    "question": "What percentage of the game's ETH balance is distributed to Cosmic Signature NFT stakers?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4%"
+      },
+      {
+        "label": "B",
+        "text": "6%"
+      },
+      {
+        "label": "C",
+        "text": "10%"
+      },
+      {
+        "label": "D",
+        "text": "8%"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "What percentage of the game's ETH balance is used for the bidder ETH raffle prizes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8%"
+      },
+      {
+        "label": "B",
+        "text": "4%"
+      },
+      {
+        "label": "C",
+        "text": "6%"
+      },
+      {
+        "label": "D",
+        "text": "2%"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "question": "How many random bidders receive an ETH raffle prize at round end (by default)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 57,
+    "question": "How many Cosmic Signature NFTs are raffled off to random bidders at round end (by default)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "20"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 58,
+    "question": "How many Cosmic Signature NFTs are raffled off to Random Walk NFT stakers at round end (by default)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "20"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "question": "How many CST tokens does a player receive as an instant reward each time they place any bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 CST"
+      },
+      {
+        "label": "B",
+        "text": "50 CST"
+      },
+      {
+        "label": "C",
+        "text": "100 CST"
+      },
+      {
+        "label": "D",
+        "text": "1,000 CST"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 60,
+    "question": "How many CST tokens are awarded to each special role winner (Main Prize Winner, Endurance Champion, Chrono-Warrior, etc.)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100 CST"
+      },
+      {
+        "label": "B",
+        "text": "500 CST"
+      },
+      {
+        "label": "C",
+        "text": "1,000 CST"
+      },
+      {
+        "label": "D",
+        "text": "5,000 CST"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 61,
+    "question": "How many CST tokens are sent to the Marketing Wallet at the end of each round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1,000 CST"
+      },
+      {
+        "label": "B",
+        "text": "3,000 CST"
+      },
+      {
+        "label": "C",
+        "text": "5,000 CST"
+      },
+      {
+        "label": "D",
+        "text": "10,000 CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "question": "When the first player bids ETH in a round, what happens to the starting ETH price for the next round's Dutch auction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is set to 1.5 times the first bid price"
+      },
+      {
+        "label": "B",
+        "text": "It is set to 3 times the first bid price"
+      },
+      {
+        "label": "C",
+        "text": "It is set to 2 times the first bid price"
+      },
+      {
+        "label": "D",
+        "text": "It is set to 4 times the first bid price"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 63,
+    "question": "After an ETH bid is placed, roughly how much does the next ETH bid price increase?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It doubles"
+      },
+      {
+        "label": "B",
+        "text": "It increases by about 1% plus a tiny amount"
+      },
+      {
+        "label": "C",
+        "text": "It increases by a flat 0.01 ETH"
+      },
+      {
+        "label": "D",
+        "text": "It increases by 50%"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "question": "How does the CST bid price change over time within a round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It increases steadily"
+      },
+      {
+        "label": "B",
+        "text": "It stays constant"
+      },
+      {
+        "label": "C",
+        "text": "It drops steadily toward zero over the auction period"
+      },
+      {
+        "label": "D",
+        "text": "It drops in sudden steps"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 65,
+    "question": "What happens to the CST Dutch auction when someone places a CST bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nothing -- the auction continues as before"
+      },
+      {
+        "label": "B",
+        "text": "The auction resets at a new, higher starting price and begins counting down again"
+      },
+      {
+        "label": "C",
+        "text": "The auction ends permanently for that round"
+      },
+      {
+        "label": "D",
+        "text": "The price is instantly cut in half"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 66,
+    "question": "What is the minimum starting price for a CST Dutch auction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100 CST"
+      },
+      {
+        "label": "B",
+        "text": "200 CST"
+      },
+      {
+        "label": "C",
+        "text": "500 CST"
+      },
+      {
+        "label": "D",
+        "text": "1,000 CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 67,
+    "question": "After someone places a CST bid, the new auction starting price is set to the higher of two values. What are they?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Double the paid price, or the minimum limit -- whichever is greater"
+      },
+      {
+        "label": "B",
+        "text": "Triple the paid price, or the minimum limit -- whichever is greater"
+      },
+      {
+        "label": "C",
+        "text": "The paid price plus 100 CST, or the minimum limit -- whichever is greater"
+      },
+      {
+        "label": "D",
+        "text": "Half the paid price, or the minimum limit -- whichever is greater"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "id": 68,
+    "question": "How long does the last bidder have to claim the main prize before anyone else can claim it?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12 hours"
+      },
+      {
+        "label": "B",
+        "text": "1 day"
+      },
+      {
+        "label": "C",
+        "text": "3 days"
+      },
+      {
+        "label": "D",
+        "text": "1 week"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 69,
+    "question": "How long do secondary prize winners have to withdraw their prizes from the Prizes Wallet before anyone can claim them?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 week"
+      },
+      {
+        "label": "B",
+        "text": "2 weeks"
+      },
+      {
+        "label": "C",
+        "text": "5 weeks"
+      },
+      {
+        "label": "D",
+        "text": "1 day"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 70,
+    "question": "In round 1, how much time does each bid add to the round's deadline (approximately)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 minutes"
+      },
+      {
+        "label": "B",
+        "text": "1 hour"
+      },
+      {
+        "label": "C",
+        "text": "2 hours"
+      },
+      {
+        "label": "D",
+        "text": "24 hours"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "question": "Does the time added per bid stay the same in every round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, it is always exactly the same"
+      },
+      {
+        "label": "B",
+        "text": "No, it slightly increases from round to round (about 1% more each round)"
+      },
+      {
+        "label": "C",
+        "text": "No, it doubles each round"
+      },
+      {
+        "label": "D",
+        "text": "No, it decreases by 10% each round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 72,
+    "question": "On first deployment, when is the game set to become active?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Immediately"
+      },
+      {
+        "label": "B",
+        "text": "One hour after deployment"
+      },
+      {
+        "label": "C",
+        "text": "At a date far in the future, so the administrator can finish configuring it first"
+      },
+      {
+        "label": "D",
+        "text": "After the first bid is placed"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 73,
+    "question": "When is the game owner allowed to change most game settings (like prize percentages)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "At any time, even during active bidding"
+      },
+      {
+        "label": "B",
+        "text": "Only when no bidding round is currently active (between rounds)"
+      },
+      {
+        "label": "C",
+        "text": "Only after a DAO vote"
+      },
+      {
+        "label": "D",
+        "text": "Never -- settings are permanent"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 74,
+    "question": "What is the default DAO voting delay (the waiting period before a proposed vote begins)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 hour"
+      },
+      {
+        "label": "B",
+        "text": "2 days"
+      },
+      {
+        "label": "C",
+        "text": "1 week"
+      },
+      {
+        "label": "D",
+        "text": "No delay"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 75,
+    "question": "What is the default DAO voting period (how long the actual vote is open)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3 days"
+      },
+      {
+        "label": "B",
+        "text": "1 week"
+      },
+      {
+        "label": "C",
+        "text": "2 weeks"
+      },
+      {
+        "label": "D",
+        "text": "1 month"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "question": "What percentage of all CST must vote for a DAO proposal to be valid (the quorum)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1%"
+      },
+      {
+        "label": "B",
+        "text": "3%"
+      },
+      {
+        "label": "C",
+        "text": "4%"
+      },
+      {
+        "label": "D",
+        "text": "10%"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 77,
+    "question": "What is the maximum length you can set for a Cosmic Signature NFT's custom name?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16 characters"
+      },
+      {
+        "label": "B",
+        "text": "32 characters"
+      },
+      {
+        "label": "C",
+        "text": "64 characters"
+      },
+      {
+        "label": "D",
+        "text": "128 characters"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 78,
+    "question": "How does the Random Walk NFT mint price change with each successive mint?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It doubles"
+      },
+      {
+        "label": "B",
+        "text": "It increases by a very small fraction (roughly 0.11%) each time"
+      },
+      {
+        "label": "C",
+        "text": "It stays constant at 0.001 ETH"
+      },
+      {
+        "label": "D",
+        "text": "It increases by exactly 0.001 ETH each time"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 79,
+    "question": "If a bidder sends more ETH than the current bid price, what happens to the excess?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The excess is always refunded"
+      },
+      {
+        "label": "B",
+        "text": "The excess is never refunded"
+      },
+      {
+        "label": "C",
+        "text": "Small overpayments stay in the game; larger overpayments are refunded"
+      },
+      {
+        "label": "D",
+        "text": "The entire transaction is rejected"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 80,
+    "question": "How are random bidders selected for raffle prizes at round end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The earliest bidders in the round are chosen"
+      },
+      {
+        "label": "B",
+        "text": "Bidders are randomly drawn from all bids placed in the round (a player with more bids has more chances)"
+      },
+      {
+        "label": "C",
+        "text": "Only bidders who bid above the average price qualify"
+      },
+      {
+        "label": "D",
+        "text": "The latest bidders in the round are chosen"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 81,
+    "question": "Can the same player win multiple raffle prizes in the same round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, each player can only win once"
+      },
+      {
+        "label": "B",
+        "text": "Yes -- since raffle draws are random and independent, the same player can be selected more than once"
+      },
+      {
+        "label": "C",
+        "text": "No, winners are removed from the pool after each draw"
+      },
+      {
+        "label": "D",
+        "text": "Only if they placed at least 10 bids"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 82,
+    "question": "In the ETH Dutch auction, what happens to the bid price after the auction period ends and nobody has bid yet?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The price drops to zero"
+      },
+      {
+        "label": "B",
+        "text": "The price settles at a low floor price and stays there until someone bids"
+      },
+      {
+        "label": "C",
+        "text": "The auction restarts at the original high price"
+      },
+      {
+        "label": "D",
+        "text": "The round automatically ends"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 83,
+    "question": "How does the ETH bid pricing work after the first bid of a round is placed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It continues using the Dutch auction (price keeps dropping)"
+      },
+      {
+        "label": "B",
+        "text": "It switches to incrementally increasing prices -- each new bid costs slightly more than the last"
+      },
+      {
+        "label": "C",
+        "text": "It becomes a fixed price for the rest of the round"
+      },
+      {
+        "label": "D",
+        "text": "It switches to a sealed-bid format"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 84,
+    "question": "What happens when no Cosmic Signature NFTs are staked and it's time to distribute staker rewards at round end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The staker reward ETH is redistributed to bidders instead"
+      },
+      {
+        "label": "B",
+        "text": "The staker reward portion is handled gracefully -- the game simply skips distributing those rewards, and that ETH stays in the game"
+      },
+      {
+        "label": "C",
+        "text": "The staker rewards go to the Endurance Champion"
+      },
+      {
+        "label": "D",
+        "text": "The staker rewards are burned"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 85,
+    "question": "If no Random Walk NFTs are staked at round end, what happens to the raffle prizes designated for Random Walk stakers?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are redistributed to bidders"
+      },
+      {
+        "label": "B",
+        "text": "Those NFTs and CST bonuses are simply not awarded -- they are skipped"
+      },
+      {
+        "label": "C",
+        "text": "They go to the Endurance Champion"
+      },
+      {
+        "label": "D",
+        "text": "They are sent to the charity"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 86,
+    "question": "The Last CST Bidder receives a special prize at round end. Who is this?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The person who placed the first CST bid"
+      },
+      {
+        "label": "B",
+        "text": "The person who placed the very last CST bid before the round ended"
+      },
+      {
+        "label": "C",
+        "text": "The person who spent the most total CST"
+      },
+      {
+        "label": "D",
+        "text": "A randomly selected CST bidder"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 87,
+    "question": "What prizes does the Last CST Bidder receive?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only ETH"
+      },
+      {
+        "label": "B",
+        "text": "A Cosmic Signature NFT and a CST bonus"
+      },
+      {
+        "label": "C",
+        "text": "Only a CST bonus"
+      },
+      {
+        "label": "D",
+        "text": "Only a Cosmic Signature NFT"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 88,
+    "question": "What prizes does the Endurance Champion receive?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ETH, a Cosmic Signature NFT, and a CST bonus"
+      },
+      {
+        "label": "B",
+        "text": "A Cosmic Signature NFT and a CST bonus (but no special ETH prize)"
+      },
+      {
+        "label": "C",
+        "text": "Only ETH"
+      },
+      {
+        "label": "D",
+        "text": "Only a CST bonus"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 89,
+    "question": "What prizes does the Chrono-Warrior receive?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only a Cosmic Signature NFT"
+      },
+      {
+        "label": "B",
+        "text": "Only a CST bonus"
+      },
+      {
+        "label": "C",
+        "text": "An ETH prize, a Cosmic Signature NFT, and a CST bonus"
+      },
+      {
+        "label": "D",
+        "text": "Only an ETH prize"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 90,
+    "question": "When the main prize is claimed by someone other than the last bidder (after timeout), does the person who claims it receive the same prizes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, they receive nothing -- prizes go to the original last bidder"
+      },
+      {
+        "label": "B",
+        "text": "Yes, the person who actually claims the main prize receives the main ETH prize, a CS NFT, and a CST bonus"
+      },
+      {
+        "label": "C",
+        "text": "They only receive the ETH"
+      },
+      {
+        "label": "D",
+        "text": "They receive half the prizes"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 91,
+    "question": "How are Cosmic Signature NFT staking rewards distributed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Each staker gets an equal flat amount regardless of when they staked"
+      },
+      {
+        "label": "B",
+        "text": "ETH is split evenly among all currently staked NFTs, and each staker earns based on what was deposited while their NFT was staked"
+      },
+      {
+        "label": "C",
+        "text": "Rewards are distributed by lottery"
+      },
+      {
+        "label": "D",
+        "text": "Stakers must manually claim rewards each block"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 92,
+    "question": "Approximately what percentage of the game's ETH is distributed at round end vs. kept for future rounds?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100% is distributed"
+      },
+      {
+        "label": "B",
+        "text": "About 75% is distributed, 25% stays"
+      },
+      {
+        "label": "C",
+        "text": "About 50% is distributed, 50% stays for future rounds"
+      },
+      {
+        "label": "D",
+        "text": "About 25% is distributed, 75% stays"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 93,
+    "question": "What prevents the game owner from upgrading the game in the middle of a bidding round to manipulate the outcome?",
+    "options": [
+      {
+        "label": "A",
+        "text": "There is no protection"
+      },
+      {
+        "label": "B",
+        "text": "The game enforces that upgrades can only happen when no round is active -- this maintains fairness and trustlessness"
+      },
+      {
+        "label": "C",
+        "text": "A timelock prevents it"
+      },
+      {
+        "label": "D",
+        "text": "DAO approval is required before any upgrade"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 94,
+    "question": "If the main ETH prize transfer fails when the winner tries to claim it, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The prize stays in the game and the round still ends"
+      },
+      {
+        "label": "B",
+        "text": "The entire claim process fails and the round does not end -- someone must try again"
+      },
+      {
+        "label": "C",
+        "text": "The prize is redirected to the Prizes Wallet"
+      },
+      {
+        "label": "D",
+        "text": "The prize is donated to charity instead"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 95,
+    "question": "Players can donate tokens and NFTs alongside their bids. Who gets to claim these donated items?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anyone, at any time"
+      },
+      {
+        "label": "B",
+        "text": "The main prize winner of that round gets first claim; after a timeout, anyone can claim them"
+      },
+      {
+        "label": "C",
+        "text": "Only the player who donated them"
+      },
+      {
+        "label": "D",
+        "text": "Only the game owner"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 96,
+    "question": "After someone wins secondary prizes (raffle ETH, donated tokens, donated NFTs), how do they receive them?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are automatically sent to the winner's wallet"
+      },
+      {
+        "label": "B",
+        "text": "Winners must withdraw them from the Prizes Wallet themselves"
+      },
+      {
+        "label": "C",
+        "text": "The game owner distributes them manually"
+      },
+      {
+        "label": "D",
+        "text": "They are airdropped at the start of the next round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 97,
+    "question": "Can a player withdraw their raffle winnings from multiple rounds in a single transaction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, each round must be withdrawn separately"
+      },
+      {
+        "label": "B",
+        "text": "Yes, the game supports batch withdrawals across multiple rounds at once"
+      },
+      {
+        "label": "C",
+        "text": "Only if the amounts are identical"
+      },
+      {
+        "label": "D",
+        "text": "Only the game owner can batch withdrawals"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 98,
+    "question": "What happens if a secondary prize winner never claims their prize and the withdrawal timeout expires?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The prize is lost forever"
+      },
+      {
+        "label": "B",
+        "text": "Anyone can withdraw it on behalf of the winner (the ETH goes to whoever calls the withdrawal)"
+      },
+      {
+        "label": "C",
+        "text": "It is automatically returned to the game"
+      },
+      {
+        "label": "D",
+        "text": "It is donated to charity"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 99,
+    "question": "How does the game generate randomness for raffle draws?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It uses an off-chain random oracle"
+      },
+      {
+        "label": "B",
+        "text": "It combines multiple on-chain data sources from the Arbitrum network for unpredictable random numbers"
+      },
+      {
+        "label": "C",
+        "text": "Players provide their own random seeds"
+      },
+      {
+        "label": "D",
+        "text": "It uses a simple counter"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 100,
+    "question": "Adding up all the ETH percentages distributed at round end (main prize, Chrono-Warrior, bidder raffle, staker rewards, charity), what do they total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100%"
+      },
+      {
+        "label": "B",
+        "text": "75%"
+      },
+      {
+        "label": "C",
+        "text": "50%"
+      },
+      {
+        "label": "D",
+        "text": "25%"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "id": 101,
+    "question": "A new round begins. The ETH Dutch auction starts at 0.0002 ETH and drops to a floor price that is roughly 1/100th of the starting price. Approximately what is the floor price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.00001 ETH"
+      },
+      {
+        "label": "B",
+        "text": "About 0.000002 ETH (very close to 1/100th of 0.0002)"
+      },
+      {
+        "label": "C",
+        "text": "0.0001 ETH"
+      },
+      {
+        "label": "D",
+        "text": "0.00005 ETH"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 102,
+    "question": "Alice places the very first ETH bid of a round. She pays 0.0001 ETH. What starting price is set for the current round's ETH Dutch auction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.0001 ETH"
+      },
+      {
+        "label": "B",
+        "text": "0.0002 ETH (double her bid price)"
+      },
+      {
+        "label": "C",
+        "text": "0.0003 ETH"
+      },
+      {
+        "label": "D",
+        "text": "0.00005 ETH"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 103,
+    "question": "Alice bids 0.0001 ETH. The price increase rate is 1% per bid. Approximately what will the next ETH bid cost?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.0001 ETH (no change)"
+      },
+      {
+        "label": "B",
+        "text": "About 0.000101 ETH (1% more, plus a tiny rounding amount)"
+      },
+      {
+        "label": "C",
+        "text": "0.000102 ETH"
+      },
+      {
+        "label": "D",
+        "text": "0.0002 ETH (double)"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 104,
+    "question": "A round ends with 10 ETH in the prize pool. The main prize is 25% of the pool. How much ETH does the main prize winner receive?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.0 ETH"
+      },
+      {
+        "label": "B",
+        "text": "2.5 ETH"
+      },
+      {
+        "label": "C",
+        "text": "5.0 ETH"
+      },
+      {
+        "label": "D",
+        "text": "3.0 ETH"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 105,
+    "question": "With 10 ETH in the prize pool, calculate the combined ETH going to: Chrono-Warrior (8%), bidder raffles (4%), and charity (7%).",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.5 ETH"
+      },
+      {
+        "label": "B",
+        "text": "1.9 ETH"
+      },
+      {
+        "label": "C",
+        "text": "2.1 ETH"
+      },
+      {
+        "label": "D",
+        "text": "2.5 ETH"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 106,
+    "question": "The game has 10 ETH in the prize pool. The bidder raffle allocation is 4% = 0.4 ETH, split among 3 winners. How much does each raffle winner receive?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.4 ETH each"
+      },
+      {
+        "label": "B",
+        "text": "0.2 ETH each"
+      },
+      {
+        "label": "C",
+        "text": "About 0.133 ETH each"
+      },
+      {
+        "label": "D",
+        "text": "0.04 ETH each"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "id": 107,
+    "question": "All prize percentages (main prize, Chrono-Warrior, raffle, stakers, charity) are calculated based on the total ETH pool. Are they calculated before or after the ETH is actually sent out?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Each percentage is calculated on whatever remains after the prior transfer"
+      },
+      {
+        "label": "B",
+        "text": "All amounts are calculated on the original pool before any ETH is transferred out, then the transfers happen"
+      },
+      {
+        "label": "C",
+        "text": "The order doesn't matter"
+      },
+      {
+        "label": "D",
+        "text": "They are calculated after charity is paid first"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 108,
+    "question": "If the charity transfer fails at round end, what happens to the rest of the prize distribution?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Everything is cancelled and the round doesn't end"
+      },
+      {
+        "label": "B",
+        "text": "The charity failure is noted but does not block anything -- all other prizes are still distributed and the round ends normally"
+      },
+      {
+        "label": "C",
+        "text": "The charity ETH goes to the game owner instead"
+      },
+      {
+        "label": "D",
+        "text": "The charity amount is automatically retried"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 109,
+    "question": "If the main ETH prize transfer fails when the winner tries to claim, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The prize stays in the pool and the round ends without paying the winner"
+      },
+      {
+        "label": "B",
+        "text": "The entire claim transaction fails -- the round does not end, and someone must try to claim again"
+      },
+      {
+        "label": "C",
+        "text": "The prize is automatically redirected to the Prizes Wallet"
+      },
+      {
+        "label": "D",
+        "text": "The prize is donated to charity"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 110,
+    "question": "Timeline: Alice bids at time 100. Bob bids at time 200. Charlie bids at time 500. Bob was the last bidder from time 200 to 500 (300 seconds). Alice was from time 100 to 200 (100 seconds). Who is the Endurance Champion when Charlie bids?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alice (100 seconds)"
+      },
+      {
+        "label": "B",
+        "text": "Bob (300 seconds -- the longest single continuous stretch as last bidder)"
+      },
+      {
+        "label": "C",
+        "text": "Charlie (just placed a bid)"
+      },
+      {
+        "label": "D",
+        "text": "There is no Endurance Champion yet"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 111,
+    "question": "Continuing from Q110: What is the recorded Endurance Champion duration when Charlie bids at time 500?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100 seconds (Alice's streak)"
+      },
+      {
+        "label": "B",
+        "text": "200 seconds"
+      },
+      {
+        "label": "C",
+        "text": "300 seconds (Bob's streak from 200 to 500)"
+      },
+      {
+        "label": "D",
+        "text": "400 seconds"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "id": 112,
+    "question": "Timeline: Alice bids at time 1000 (first bid). Bob bids at time 1100. Bob remains the last bidder. By time 1250, Bob has held last-bidder status for 150 seconds, which exceeds Alice's 100-second streak. What happens to the Endurance Champion and Chrono-Warrior titles?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bob becomes the new Endurance Champion, and Alice becomes the first Chrono-Warrior candidate"
+      },
+      {
+        "label": "B",
+        "text": "Bob becomes Endurance Champion but no Chrono-Warrior is assigned yet"
+      },
+      {
+        "label": "C",
+        "text": "Alice remains Endurance Champion"
+      },
+      {
+        "label": "D",
+        "text": "Both titles are only assigned at round end"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 113,
+    "question": "In Q112, when Bob overtakes Alice's record, Alice's \"chrono duration\" is evaluated. If Alice held the Endurance Champion title for 200 seconds (from when she first got it until Bob surpassed her), does Alice become the Chrono-Warrior?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes -- since no Chrono-Warrior exists yet, any positive duration makes Alice the first Chrono-Warrior"
+      },
+      {
+        "label": "B",
+        "text": "No, because Alice's chrono duration was too short"
+      },
+      {
+        "label": "C",
+        "text": "No, only the last bidder can be Chrono-Warrior"
+      },
+      {
+        "label": "D",
+        "text": "The Chrono-Warrior is only determined at round end"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 114,
+    "question": "Following Q113, if Alice becomes the Chrono-Warrior with a chrono duration of 200 seconds, what does a future candidate need to beat Alice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They need a chrono duration greater than 100 seconds"
+      },
+      {
+        "label": "B",
+        "text": "They need a chrono duration greater than 200 seconds"
+      },
+      {
+        "label": "C",
+        "text": "They need a chrono duration greater than 300 seconds"
+      },
+      {
+        "label": "D",
+        "text": "They only need to become Endurance Champion"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 115,
+    "question": "A round had 50 total bids placed by 20 different players. Alice placed 15 of those 50 bids. In the raffle for 10 Cosmic Signature NFT prizes, how is the selection done?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 unique players are randomly picked (each player has equal chance)"
+      },
+      {
+        "label": "B",
+        "text": "10 random draws from all 50 bids -- players with more bids have more chances, and the same player can win multiple times"
+      },
+      {
+        "label": "C",
+        "text": "The top 10 bidders by ETH spent are selected"
+      },
+      {
+        "label": "D",
+        "text": "10 players are drawn from the first 20 bids only"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 116,
+    "question": "Three Cosmic Signature NFTs are staked. A reward deposit of 0.9 ETH arrives. How much reward is allocated per staked NFT?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.9 ETH per NFT"
+      },
+      {
+        "label": "B",
+        "text": "0.3 ETH per NFT"
+      },
+      {
+        "label": "C",
+        "text": "0.45 ETH per NFT"
+      },
+      {
+        "label": "D",
+        "text": "0.1 ETH per NFT"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 117,
+    "question": "Player X staked their Cosmic Signature NFT early when the cumulative reward per NFT was 0.5 ETH. Since then, multiple deposits have occurred and the cumulative reward per NFT has grown to 1.3 ETH. If X unstakes now, how much ETH reward do they receive?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.8 ETH (the difference: 1.3 minus 0.5)"
+      },
+      {
+        "label": "B",
+        "text": "1.3 ETH"
+      },
+      {
+        "label": "C",
+        "text": "0.5 ETH"
+      },
+      {
+        "label": "D",
+        "text": "0.3 ETH"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 118,
+    "question": "In Q117, if the staking wallet does not have enough ETH to pay X's 0.8 ETH reward (because some ETH was already paid to other unstakers), what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "X receives whatever ETH is available"
+      },
+      {
+        "label": "B",
+        "text": "X's unstake transaction fails -- they cannot unstake until there is enough ETH"
+      },
+      {
+        "label": "C",
+        "text": "X receives their reward from a reserve fund"
+      },
+      {
+        "label": "D",
+        "text": "The reward is automatically reduced to match the available balance"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 119,
+    "question": "At round end, the game tries to deposit ETH into the Cosmic Signature NFT staking wallet. But what if there are zero NFTs staked at that moment?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The deposit goes through with no effect"
+      },
+      {
+        "label": "B",
+        "text": "The deposit is gracefully skipped -- the game handles the edge case and the round still ends normally"
+      },
+      {
+        "label": "C",
+        "text": "The ETH is returned to the main prize winner"
+      },
+      {
+        "label": "D",
+        "text": "The game crashes and the round cannot end"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 120,
+    "question": "The Random Walk NFT staking system needs to randomly pick stakers for raffle prizes. If 10 prizes are to be given but only 3 NFTs are staked, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only 3 prizes are awarded"
+      },
+      {
+        "label": "B",
+        "text": "All 10 prizes are still given -- some stakers will be randomly selected more than once"
+      },
+      {
+        "label": "C",
+        "text": "The raffle is cancelled"
+      },
+      {
+        "label": "D",
+        "text": "No prizes are awarded"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 121,
+    "question": "Alice stakes Random Walk NFT #5, Bob stakes #10, Charlie stakes #15. Then Bob unstakes. How does the system maintain its ability to randomly select stakers efficiently?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bob's slot is left empty"
+      },
+      {
+        "label": "B",
+        "text": "Charlie's entry is moved into Bob's former slot, keeping the list of stakers packed together with no gaps"
+      },
+      {
+        "label": "C",
+        "text": "All entries after Bob are shifted forward"
+      },
+      {
+        "label": "D",
+        "text": "The list is rebuilt from scratch"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 122,
+    "question": "A player places a CST bid and pays 150 CST. They also receive a 100 CST bidding reward. What is the net CST cost of this bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "150 CST (the reward doesn't count)"
+      },
+      {
+        "label": "B",
+        "text": "50 CST (150 burned minus 100 received)"
+      },
+      {
+        "label": "C",
+        "text": "100 CST (only the reward matters)"
+      },
+      {
+        "label": "D",
+        "text": "250 CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 123,
+    "question": "To place a CST bid costing 150 CST, a player needs at least 150 CST in their wallet. The 100 CST reward arrives as part of the same transaction. Does the player need 150 CST before the transaction, or just 50 CST?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They need only 50 CST because the reward is applied first"
+      },
+      {
+        "label": "B",
+        "text": "They need the full 150 CST because the cost is deducted before the reward is credited"
+      },
+      {
+        "label": "C",
+        "text": "They need 250 CST (the sum of both)"
+      },
+      {
+        "label": "D",
+        "text": "The amount needed depends on network conditions"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 124,
+    "question": "The CST Dutch auction starts at 400 CST with a duration of 12 hours. At exactly the 6-hour mark, what is the CST bid price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "400 CST"
+      },
+      {
+        "label": "B",
+        "text": "200 CST (halfway through, so half the starting price)"
+      },
+      {
+        "label": "C",
+        "text": "0 CST"
+      },
+      {
+        "label": "D",
+        "text": "100 CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 125,
+    "question": "Continuing Q124: When does the CST auction timer start counting down?",
+    "options": [
+      {
+        "label": "A",
+        "text": "When the round activates"
+      },
+      {
+        "label": "B",
+        "text": "When the first bid of the round is placed (which must be ETH)"
+      },
+      {
+        "label": "C",
+        "text": "When the first CST bid is placed"
+      },
+      {
+        "label": "D",
+        "text": "At midnight UTC each day"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 126,
+    "question": "If no CST bids have been placed yet this round and 6 hours have passed since the first ETH bid (with a 12-hour auction duration and a 200 CST starting price), what is the current CST bid price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "200 CST"
+      },
+      {
+        "label": "B",
+        "text": "100 CST (half the starting price, since half the time has elapsed)"
+      },
+      {
+        "label": "C",
+        "text": "0 CST"
+      },
+      {
+        "label": "D",
+        "text": "50 CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 127,
+    "question": "Alice uses a Random Walk NFT for a discounted ETH bid. The normal ETH bid price is 100 units. What does Alice pay?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25 units"
+      },
+      {
+        "label": "B",
+        "text": "51 units (half, rounded up)"
+      },
+      {
+        "label": "C",
+        "text": "100 units (no discount)"
+      },
+      {
+        "label": "D",
+        "text": "75 units"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 128,
+    "question": "After a round ends and the new round begins, there is a 30-minute delay before the round activates. The main prize was claimed at 10:00 AM. When does the new round activate?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10:00 AM (immediately)"
+      },
+      {
+        "label": "B",
+        "text": "10:30 AM"
+      },
+      {
+        "label": "C",
+        "text": "11:00 AM"
+      },
+      {
+        "label": "D",
+        "text": "10:00 AM the next day"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 129,
+    "question": "The time added per bid is approximately 1 hour in round 1. The time increment grows by about 1% each round. After 10 rounds, approximately how much time does each bid add?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Still 1 hour (it doesn't change)"
+      },
+      {
+        "label": "B",
+        "text": "About 1 hour and 6 minutes (10 rounds of ~1% compound growth)"
+      },
+      {
+        "label": "C",
+        "text": "2 hours (it doubles)"
+      },
+      {
+        "label": "D",
+        "text": "About 1 hour and 36 minutes"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 130,
+    "question": "Since the time added per bid grows slightly each round, what effect does this have on the Dutch auction durations?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dutch auctions get shorter each round"
+      },
+      {
+        "label": "B",
+        "text": "Dutch auctions get slightly longer each round (because they are derived from the same time increment value)"
+      },
+      {
+        "label": "C",
+        "text": "Dutch auctions stay exactly the same length"
+      },
+      {
+        "label": "D",
+        "text": "Only the ETH Dutch auction gets longer; the CST auction stays the same"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 131,
+    "question": "The initial time until the main prize can be claimed (after the first bid) is approximately 1 day. If Alice places the first bid at noon on Monday, approximately when could the main prize first be claimed if no other bids are placed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Monday evening"
+      },
+      {
+        "label": "B",
+        "text": "Tuesday at noon (approximately 1 day later)"
+      },
+      {
+        "label": "C",
+        "text": "Wednesday at noon"
+      },
+      {
+        "label": "D",
+        "text": "Immediately"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 132,
+    "question": "Each bid after the first extends the deadline. If the deadline is currently set for Tuesday at noon and the time increment is 1 hour, a bid placed on Monday evening would set the new deadline to approximately when?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Monday evening + 1 hour"
+      },
+      {
+        "label": "B",
+        "text": "Tuesday at noon + 1 hour = Tuesday at 1:00 PM (because Tuesday noon is later than Monday evening)"
+      },
+      {
+        "label": "C",
+        "text": "Monday evening (no change)"
+      },
+      {
+        "label": "D",
+        "text": "Wednesday at noon"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 133,
+    "question": "What if the deadline has already passed (say it was Tuesday at noon) and a bid is placed on Wednesday at 3:00 PM with a 1-hour time increment? What is the new deadline?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tuesday at noon + 1 hour = Tuesday at 1:00 PM"
+      },
+      {
+        "label": "B",
+        "text": "Wednesday at 3:00 PM + 1 hour = Wednesday at 4:00 PM (the game uses the later of the current deadline or the current time)"
+      },
+      {
+        "label": "C",
+        "text": "Wednesday at 3:00 PM (no extension)"
+      },
+      {
+        "label": "D",
+        "text": "Thursday at noon"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 134,
+    "question": "Who is allowed to claim the main prize, and when?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only the last bidder, at any time after their bid"
+      },
+      {
+        "label": "B",
+        "text": "The last bidder once the deadline passes; if they don't claim within an additional 1-day window, anyone can claim it"
+      },
+      {
+        "label": "C",
+        "text": "Any bidder once the deadline passes"
+      },
+      {
+        "label": "D",
+        "text": "Only the game owner"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 135,
+    "question": "If the last bidder does not claim the main prize within the 1-day timeout, and a different person claims it, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The prizes go to the original last bidder anyway"
+      },
+      {
+        "label": "B",
+        "text": "The new claimant receives the main ETH prize, a CS NFT, and a CST bonus -- they become the \"beneficiary\" of this round"
+      },
+      {
+        "label": "C",
+        "text": "The new claimant only receives the ETH"
+      },
+      {
+        "label": "D",
+        "text": "The round is cancelled"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 136,
+    "question": "Why is the Chrono-Warrior title also evaluated right at the moment the main prize is claimed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To reset all champion data"
+      },
+      {
+        "label": "B",
+        "text": "To give the current Endurance Champion one final chance to also be recognized as Chrono-Warrior, accounting for their streak right up to the end of the round"
+      },
+      {
+        "label": "C",
+        "text": "To calculate the next round's chrono starting point"
+      },
+      {
+        "label": "D",
+        "text": "It is just a redundant safety check"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 137,
+    "question": "Scenario: Round ends with 10 ETH. Main prize (25%) = 2.5 ETH to the winner. The Chrono-Warrior ETH prize (8%) = 0.8 ETH. But the Chrono-Warrior's ETH prize is NOT sent directly to them -- it goes to the Prizes Wallet instead. Why?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To save on transaction fees"
+      },
+      {
+        "label": "B",
+        "text": "So the Chrono-Warrior can withdraw it when convenient, with the same timeout protection as other secondary prizes"
+      },
+      {
+        "label": "C",
+        "text": "Because the Chrono-Warrior might reject the ETH"
+      },
+      {
+        "label": "D",
+        "text": "The DAO must approve the withdrawal first"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 138,
+    "question": "The game owner has a special ability to reduce the ETH price floor if nobody is willing to bid. What conditions must be met for the owner to use this ability?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The owner can use it at any time"
+      },
+      {
+        "label": "B",
+        "text": "No bids have been placed yet in the current round, and the Dutch auction period has already ended"
+      },
+      {
+        "label": "C",
+        "text": "The round must be inactive"
+      },
+      {
+        "label": "D",
+        "text": "A DAO vote must approve it"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 139,
+    "question": "When the owner uses the price-floor reduction ability, what happens to the current ETH bid price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is cut roughly in half, and the auction duration is adjusted so the price doesn't jump suddenly"
+      },
+      {
+        "label": "B",
+        "text": "It is reset to the starting price"
+      },
+      {
+        "label": "C",
+        "text": "The auction duration is halved"
+      },
+      {
+        "label": "D",
+        "text": "The bid price doubles"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 140,
+    "question": "Scenario: Alice wins 0.5 ETH in the round 5 raffle and 0.3 ETH in the round 7 raffle. Can she withdraw both prizes in a single transaction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, she must withdraw each round separately"
+      },
+      {
+        "label": "B",
+        "text": "Yes, both balances are combined (0.8 ETH total) and sent to her in one transfer"
+      },
+      {
+        "label": "C",
+        "text": "She can only withdraw from the most recent round"
+      },
+      {
+        "label": "D",
+        "text": "Batch withdrawals are not supported"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 141,
+    "question": "A player donated an NFT to the prize pool during round 5. Who can claim this donated NFT, and when?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anyone, at any time"
+      },
+      {
+        "label": "B",
+        "text": "The main prize winner of round 5 can claim it immediately; after the withdrawal timeout, anyone can claim it"
+      },
+      {
+        "label": "C",
+        "text": "Only the original donor"
+      },
+      {
+        "label": "D",
+        "text": "Only the game owner"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 142,
+    "question": "A player donated tokens (like USDC or another crypto token) to the prize pool during round 5. After the withdrawal timeout expires, who can claim the remaining tokens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only the main prize winner of round 5"
+      },
+      {
+        "label": "B",
+        "text": "Anyone -- the timeout has passed and the tokens are open for anyone to claim"
+      },
+      {
+        "label": "C",
+        "text": "Only the donor"
+      },
+      {
+        "label": "D",
+        "text": "Nobody -- they are locked forever"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 143,
+    "question": "When someone other than a prize winner withdraws ETH from the Prizes Wallet after the timeout, where does the ETH actually go?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To the original prize winner's wallet"
+      },
+      {
+        "label": "B",
+        "text": "To the wallet of whoever made the withdrawal"
+      },
+      {
+        "label": "C",
+        "text": "To the charity address"
+      },
+      {
+        "label": "D",
+        "text": "Back to the game's pool"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 144,
+    "question": "Timeline: Alice bids at time 0 (first bid). Bob bids at time 50. Charlie bids at time 200. Dave bids at time 300. What are the last-bidder durations?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alice: 50s, Bob: 150s, Charlie: 100s"
+      },
+      {
+        "label": "B",
+        "text": "Alice: 50s, Bob: 100s, Charlie: 150s"
+      },
+      {
+        "label": "C",
+        "text": "Alice: 100s, Bob: 150s, Charlie: 100s"
+      },
+      {
+        "label": "D",
+        "text": "Alice: 50s, Bob: 200s, Charlie: 50s"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 145,
+    "question": "In Q144, who is the Endurance Champion when Dave bids?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alice (50s)"
+      },
+      {
+        "label": "B",
+        "text": "Bob (150s -- the longest single continuous stretch)"
+      },
+      {
+        "label": "C",
+        "text": "Charlie (100s)"
+      },
+      {
+        "label": "D",
+        "text": "Dave"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 146,
+    "question": "In Q144-145, when Dave bids at time 300, Charlie had been last bidder for 100 seconds. Since Charlie's 100 seconds does not exceed Bob's record of 150 seconds, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Charlie becomes the new Endurance Champion"
+      },
+      {
+        "label": "B",
+        "text": "Dave becomes the new Endurance Champion"
+      },
+      {
+        "label": "C",
+        "text": "Bob remains the Endurance Champion because Charlie's streak was shorter"
+      },
+      {
+        "label": "D",
+        "text": "Alice remains the Endurance Champion"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "id": 147,
+    "question": "When does the Chrono-Warrior title actually get evaluated during a round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "After every single bid"
+      },
+      {
+        "label": "B",
+        "text": "Only when a new Endurance Champion is crowned (someone beats the current record), and once more when the round ends"
+      },
+      {
+        "label": "C",
+        "text": "Only at round end"
+      },
+      {
+        "label": "D",
+        "text": "Every hour"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 148,
+    "question": "Scenario: 5 Cosmic Signature NFTs are staked. A reward deposit of 10 ETH arrives. Each NFT gets 2 ETH of reward. Player A staked early (when cumulative reward per NFT was 1.0). Player B staked recently (when cumulative reward per NFT was 3.0). After the deposit, cumulative reward is 4.0. What does each earn if they unstake?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A: 3.0 ETH, B: 1.0 ETH"
+      },
+      {
+        "label": "B",
+        "text": "A: 4.0 ETH, B: 4.0 ETH"
+      },
+      {
+        "label": "C",
+        "text": "A: 2.0 ETH, B: 2.0 ETH"
+      },
+      {
+        "label": "D",
+        "text": "A: 1.0 ETH, B: 3.0 ETH"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 149,
+    "question": "In Q148, Player A earns 3.0 ETH and Player B earns 1.0 ETH. Their total is 4.0 ETH. But 10 ETH was deposited and 5 NFTs are staked. Where is the other 6.0 ETH?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is lost"
+      },
+      {
+        "label": "B",
+        "text": "It belongs to the other 3 stakers -- they will collect it when they unstake"
+      },
+      {
+        "label": "C",
+        "text": "It was sent to charity"
+      },
+      {
+        "label": "D",
+        "text": "There is an accounting error"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 150,
+    "question": "Consider this staking scenario: (1) Alice stakes when cumulative reward is 0. (2) Bob stakes when cumulative reward is 0. (3) 1 ETH deposited with 2 NFTs staked -- each gets 0.5, cumulative goes to 0.5. (4) Carol stakes when cumulative reward is 0.5. (5) 0.9 ETH deposited with 3 NFTs staked -- each gets 0.3, cumulative goes to 0.8. If all three unstake, what are their rewards?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alice: 0.8, Bob: 0.8, Carol: 0.3"
+      },
+      {
+        "label": "B",
+        "text": "Alice: 0.5, Bob: 0.5, Carol: 0.3"
+      },
+      {
+        "label": "C",
+        "text": "Alice: 1.0, Bob: 0.5, Carol: 0.3"
+      },
+      {
+        "label": "D",
+        "text": "Everyone gets 0.633 ETH"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 151,
+    "question": "In Q150, total rewards = 0.8 + 0.8 + 0.3 = 1.9 ETH. Total deposited = 1.0 + 0.9 = 1.9 ETH. It balances perfectly in this case. Would it always balance perfectly?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, always"
+      },
+      {
+        "label": "B",
+        "text": "Usually, but extremely small rounding errors can occur in edge cases because whole-number division doesn't always divide evenly"
+      },
+      {
+        "label": "C",
+        "text": "No, there would always be significant losses"
+      },
+      {
+        "label": "D",
+        "text": "Only if there's an even number of stakers"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 152,
+    "question": "The prize distribution percentages add up to 50% (25% main + 8% chrono + 4% raffle + 6% stakers + 7% charity). Does exactly 50% remain in the game for the next round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, exactly 50% remains every time"
+      },
+      {
+        "label": "B",
+        "text": "Approximately 50%, but small rounding differences may cause slight deviations"
+      },
+      {
+        "label": "C",
+        "text": "No, the percentages are applied one after another so significantly less than 50% remains"
+      },
+      {
+        "label": "D",
+        "text": "Yes, the math is always perfectly precise"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 153,
+    "question": "If the game's prize pool has been growing over many rounds (because ~50% stays each time), what effect does this have on future prizes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Future prizes stay the same size because the percentages are fixed"
+      },
+      {
+        "label": "B",
+        "text": "Future prizes grow larger in absolute ETH terms because the pool is bigger, even though the percentages are the same"
+      },
+      {
+        "label": "C",
+        "text": "Future prizes shrink because ETH is being continuously removed"
+      },
+      {
+        "label": "D",
+        "text": "Future prizes are exactly the same as in round 1"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 154,
+    "question": "Scenario: A round has 50 ETH and 100 bids were placed. Alice is the last bidder and claims the main prize. Walk through the ETH distribution with default percentages. How much approximately remains for the next round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50 ETH (nothing is distributed)"
+      },
+      {
+        "label": "B",
+        "text": "25 ETH (50% of the total pool remains)"
+      },
+      {
+        "label": "C",
+        "text": "37.5 ETH (75% remains)"
+      },
+      {
+        "label": "D",
+        "text": "12.5 ETH (75% is distributed)"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 155,
+    "question": "In Q154, the main prize is 25% of 50 = 12.5 ETH. But where does Alice's 12.5 ETH actually come from?",
+    "options": [
+      {
+        "label": "A",
+        "text": "From a separate treasury"
+      },
+      {
+        "label": "B",
+        "text": "Directly from the game's ETH balance, sent to Alice immediately during the claim"
+      },
+      {
+        "label": "C",
+        "text": "From the Prizes Wallet"
+      },
+      {
+        "label": "D",
+        "text": "It is minted as new ETH"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 156,
+    "question": "After the Chrono-Warrior ETH prize is deposited into the Prizes Wallet, the Chrono-Warrior must take action to receive it. What must they do?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nothing -- it arrives automatically"
+      },
+      {
+        "label": "B",
+        "text": "They must withdraw it from the Prizes Wallet before the timeout expires"
+      },
+      {
+        "label": "C",
+        "text": "They must stake a Cosmic Signature NFT first"
+      },
+      {
+        "label": "D",
+        "text": "They must wait for the next round to begin"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 157,
+    "question": "Scenario: The ETH Dutch auction starts at 0.0004 ETH and drops to a floor of about 0.000002 ETH over 2 hours. After 1 hour (exactly halfway), what is the approximate ETH bid price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "About 0.0002 ETH (halfway between start and floor)"
+      },
+      {
+        "label": "B",
+        "text": "0.0001 ETH"
+      },
+      {
+        "label": "C",
+        "text": "About 0.000002 ETH (already at the floor)"
+      },
+      {
+        "label": "D",
+        "text": "0.0004 ETH (unchanged)"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 158,
+    "question": "Why does the ETH Dutch auction have a floor price greater than zero, while the CST Dutch auction drops all the way to zero?",
+    "options": [
+      {
+        "label": "A",
+        "text": "There is no reason -- both reach zero"
+      },
+      {
+        "label": "B",
+        "text": "The ETH auction has a minimum floor to ensure bidders always pay some ETH, while the CST auction is designed to eventually allow free CST bids"
+      },
+      {
+        "label": "C",
+        "text": "The CST auction has the floor, not the ETH auction"
+      },
+      {
+        "label": "D",
+        "text": "Both auctions have floors above zero"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 159,
+    "question": "If a round's ETH Dutch auction ends and nobody has bid yet, the price sits at the floor. The game owner can halve this floor. What practical effect does this have for players?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It doubles the cost of bidding"
+      },
+      {
+        "label": "B",
+        "text": "It makes bidding cheaper by lowering the minimum ETH price, encouraging someone to place the first bid"
+      },
+      {
+        "label": "C",
+        "text": "It has no effect on players"
+      },
+      {
+        "label": "D",
+        "text": "It ends the round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 160,
+    "question": "Timeline: Alice bids at time 1000 (first bid). Bob bids at time 1050. Alice bids again at time 1100. Carol bids at time 1400. At each point, who is the last bidder and for how long?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alice: 50s, Bob: 50s, Alice (again): 300s"
+      },
+      {
+        "label": "B",
+        "text": "Alice: 50s, Bob: 50s, Alice (again): 200s, Carol takes over"
+      },
+      {
+        "label": "C",
+        "text": "Alice: 100s, Bob: 300s"
+      },
+      {
+        "label": "D",
+        "text": "Alice: 50s, Bob: 100s, Alice: 300s"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 161,
+    "question": "In Q160, multiple consecutive bids from the same person (Alice bidding at 1000 and again at 1100) -- does this extend their last-bidder streak, or does it reset?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Each of Alice's bids resets her streak timer to the time of the new bid"
+      },
+      {
+        "label": "B",
+        "text": "Alice's consecutive bids accumulate -- her streak continues from the original bid"
+      },
+      {
+        "label": "C",
+        "text": "Only the first bid from a player counts"
+      },
+      {
+        "label": "D",
+        "text": "Consecutive bids are not allowed"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 162,
+    "question": "In Q160-161, Alice bids at 1000, Bob bids at 1050 (taking over), Alice bids at 1100 (taking back). Alice's new streak starts at 1100, not 1000. So when Carol bids at 1400, Alice's current streak is 300 seconds (1100 to 1400). Is this correct?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes -- Alice's current streak is from her most recent bid (1100) to when she was outbid (1400) = 300 seconds"
+      },
+      {
+        "label": "B",
+        "text": "No -- Alice's streak is from 1000 to 1400 = 400 seconds"
+      },
+      {
+        "label": "C",
+        "text": "No -- Alice's streak is only 50 seconds"
+      },
+      {
+        "label": "D",
+        "text": "Alice has no streak because she bid twice"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 163,
+    "question": "Why is the \"initial duration until main prize\" set to approximately 1 day for the first round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To give many players time to join the round before the deadline approaches"
+      },
+      {
+        "label": "B",
+        "text": "To match Ethereum's block time"
+      },
+      {
+        "label": "C",
+        "text": "It's an arbitrary choice with no strategic reason"
+      },
+      {
+        "label": "D",
+        "text": "To prevent anyone from winning too quickly in the very first round only"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 164,
+    "question": "If a player places a CST bid when no ETH bids have been placed yet in the round, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The CST bid goes through normally"
+      },
+      {
+        "label": "B",
+        "text": "The bid is rejected -- the first bid in every round must be ETH"
+      },
+      {
+        "label": "C",
+        "text": "The CST bid is converted to an ETH bid"
+      },
+      {
+        "label": "D",
+        "text": "The player is refunded their CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 165,
+    "question": "A scenario: The game has been running for 100 rounds. Each round, the time increment grows by ~1%. In round 100, the time increment is noticeably larger than round 1. What practical effect does this have on gameplay?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rounds get shorter and more intense"
+      },
+      {
+        "label": "B",
+        "text": "Rounds get longer because each bid pushes the deadline further into the future, and the Dutch auctions also last longer"
+      },
+      {
+        "label": "C",
+        "text": "No noticeable effect"
+      },
+      {
+        "label": "D",
+        "text": "The game becomes cheaper to play"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 166,
+    "question": "Players can attach messages to their bids. What is the maximum message length?",
+    "options": [
+      {
+        "label": "A",
+        "text": "About 140 characters"
+      },
+      {
+        "label": "B",
+        "text": "About 280 characters"
+      },
+      {
+        "label": "C",
+        "text": "About 512 characters"
+      },
+      {
+        "label": "D",
+        "text": "There is no limit"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 167,
+    "question": "If a player owns a Random Walk NFT that has already been used for a discounted bid in a previous round, can they use it again?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, it resets each round"
+      },
+      {
+        "label": "B",
+        "text": "No -- once a Random Walk NFT is used for a discounted bid, it can never be used for bidding again"
+      },
+      {
+        "label": "C",
+        "text": "Yes, but at a smaller discount"
+      },
+      {
+        "label": "D",
+        "text": "Only if they stake it first"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 168,
+    "question": "If a player owns a Random Walk NFT that has already been staked once and then unstaked, can they stake it again?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, unlimited times"
+      },
+      {
+        "label": "B",
+        "text": "No -- once an NFT has been staked, it cannot be staked again even after unstaking"
+      },
+      {
+        "label": "C",
+        "text": "Yes, but only once more"
+      },
+      {
+        "label": "D",
+        "text": "Only after waiting one full round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 169,
+    "question": "A player staked their Random Walk NFT. Now they want to use it for a discounted ETH bid. Can they?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, staking and bidding uses are separate"
+      },
+      {
+        "label": "B",
+        "text": "No, the NFT is locked in the staking wallet and must be unstaked first before it could be used for bidding (though each use is tracked separately)"
+      },
+      {
+        "label": "C",
+        "text": "Yes, the staking wallet allows bidding directly"
+      },
+      {
+        "label": "D",
+        "text": "No, because staked NFTs are consumed"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 170,
+    "question": "The Cosmic Signature DAO allows CST holders to vote on proposals. What happens during the 2-day voting delay period?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Voting is open"
+      },
+      {
+        "label": "B",
+        "text": "The proposal has been submitted but voting has not yet started -- this gives people time to review the proposal"
+      },
+      {
+        "label": "C",
+        "text": "The proposal is being verified"
+      },
+      {
+        "label": "D",
+        "text": "Only the proposer can vote"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 171,
+    "question": "After the 2-day delay, the DAO voting period opens for 2 weeks. What percentage of CST must participate for the vote to be valid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1%"
+      },
+      {
+        "label": "B",
+        "text": "3%"
+      },
+      {
+        "label": "C",
+        "text": "10%"
+      },
+      {
+        "label": "D",
+        "text": "50%"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 172,
+    "question": "Who can create a proposal in the Cosmic Signature DAO?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anyone"
+      },
+      {
+        "label": "B",
+        "text": "Only the game owner"
+      },
+      {
+        "label": "C",
+        "text": "Anyone who holds at least a minimum threshold of CST (set to the same amount as the bidding reward)"
+      },
+      {
+        "label": "D",
+        "text": "Only stakers"
+      }
+    ],
+    "correctAnswer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "id": 173,
+    "question": "Scenario: Alice has been the last bidder since time 5000. Bob bids at time 5500. Alice was last bidder for 500 seconds. The current Endurance Champion record is 300 seconds (held by Carol). What happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Carol remains Endurance Champion"
+      },
+      {
+        "label": "B",
+        "text": "Alice becomes the new Endurance Champion because 500 > 300, and Carol's chrono segment is evaluated for the Chrono-Warrior title"
+      },
+      {
+        "label": "C",
+        "text": "Bob becomes Endurance Champion"
+      },
+      {
+        "label": "D",
+        "text": "Both Alice and Carol share the title"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 174,
+    "question": "In Q173, when Alice dethroned Carol as Endurance Champion, Carol's \"chrono segment\" is evaluated. If Carol's chrono duration was 250 seconds and the current Chrono-Warrior's duration is 200 seconds, what happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Carol becomes the new Chrono-Warrior with 250 seconds"
+      },
+      {
+        "label": "B",
+        "text": "The existing Chrono-Warrior keeps the title"
+      },
+      {
+        "label": "C",
+        "text": "Carol and the current CW share the title"
+      },
+      {
+        "label": "D",
+        "text": "The Chrono-Warrior title is reset"
+      }
+    ],
+    "correctAnswer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 175,
+    "question": "At round end, the game does one final evaluation of the current Endurance Champion's chrono segment. Why is this important?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It's not important -- just a formality"
+      },
+      {
+        "label": "B",
+        "text": "Because the current EC may have held their title through the very end of the round, and that final chrono duration might be the longest, making the current EC also the Chrono-Warrior"
+      },
+      {
+        "label": "C",
+        "text": "To reset the champion for the next round"
+      },
+      {
+        "label": "D",
+        "text": "To calculate next round's prizes"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 176,
+    "question": "Scenario: 20 ETH in the pool. The main prize (25%) is calculated FIRST but actually SENT LAST. The Chrono-Warrior prize (8%) is calculated and deposited before the main prize is sent. Does the main prize calculation use the 20 ETH or some reduced amount?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A reduced amount -- after the chrono prize is deposited"
+      },
+      {
+        "label": "B",
+        "text": "The full 20 ETH -- all percentage calculations are done before any ETH leaves the game"
+      },
+      {
+        "label": "C",
+        "text": "It depends on the order of operations"
+      },
+      {
+        "label": "D",
+        "text": "The charity is deducted first"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 177,
+    "question": "A Cosmic Signature NFT is given a custom name \"StarWalker\" by its owner. If the NFT is transferred to a new owner, can the new owner change the name?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, only the original namer can change it"
+      },
+      {
+        "label": "B",
+        "text": "Yes, the new owner (or anyone they authorize) can change the name"
+      },
+      {
+        "label": "C",
+        "text": "Only the game can change NFT names"
+      },
+      {
+        "label": "D",
+        "text": "NFT names cannot be changed once set"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 178,
+    "question": "Each Cosmic Signature NFT has a unique seed that determines how it looks visually. How is this seed generated?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The owner chooses the seed"
+      },
+      {
+        "label": "B",
+        "text": "It is derived from on-chain random data at the time of minting"
+      },
+      {
+        "label": "C",
+        "text": "It is always the same as the NFT's ID number"
+      },
+      {
+        "label": "D",
+        "text": "It is provided by an off-chain service"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 179,
+    "question": "Scenario: The CST Dutch auction starts at 200 CST. A player bids and pays 100 CST. What is the new starting price for the next CST auction within the same round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100 CST (same as what was paid)"
+      },
+      {
+        "label": "B",
+        "text": "200 CST (the minimum limit kicks in, since 100 x 2 = 200 equals the minimum)"
+      },
+      {
+        "label": "C",
+        "text": "400 CST"
+      },
+      {
+        "label": "D",
+        "text": "50 CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 180,
+    "question": "In Q179, if the player had paid 150 CST instead of 100, what would the new starting price be?",
+    "options": [
+      {
+        "label": "A",
+        "text": "150 CST"
+      },
+      {
+        "label": "B",
+        "text": "300 CST (150 x 2 = 300, which exceeds the 200 minimum, so 300 is used)"
+      },
+      {
+        "label": "C",
+        "text": "200 CST"
+      },
+      {
+        "label": "D",
+        "text": "450 CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 181,
+    "question": "A round has accumulated donations: some crypto tokens and three NFTs. The main prize winner claims the main prize. Can they immediately claim the donated items too?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, they must wait for a separate claim period"
+      },
+      {
+        "label": "B",
+        "text": "Yes, the main prize winner has immediate access to claim donated tokens and NFTs from the Prizes Wallet"
+      },
+      {
+        "label": "C",
+        "text": "Donated items are automatically sent to the winner"
+      },
+      {
+        "label": "D",
+        "text": "Donated items go to random bidders"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 182,
+    "question": "What is the order of prize distribution at round end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Main prize first, then everything else"
+      },
+      {
+        "label": "B",
+        "text": "Secondary prizes (raffle ETH, chrono ETH, staker ETH, charity) are deposited/sent first, then the main ETH prize is sent directly to the claimant last"
+      },
+      {
+        "label": "C",
+        "text": "Charity first, then everything else"
+      },
+      {
+        "label": "D",
+        "text": "All prizes are sent simultaneously"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 183,
+    "question": "The game tracks how much ETH and CST each bidder spent per round. Why might this information be useful?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It has no purpose"
+      },
+      {
+        "label": "B",
+        "text": "It could be used for future features, analytics, or to determine eligibility for special rewards"
+      },
+      {
+        "label": "C",
+        "text": "It is used to calculate the main prize amount"
+      },
+      {
+        "label": "D",
+        "text": "It determines the Dutch auction starting price"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 184,
+    "question": "A new round begins after the 30-minute delay. The ETH Dutch auction starts dropping from a high price. But the first CST bid can only happen after what?",
+    "options": [
+      {
+        "label": "A",
+        "text": "After the Dutch auction ends"
+      },
+      {
+        "label": "B",
+        "text": "After at least one ETH bid has been placed (because the first bid in every round must be ETH)"
+      },
+      {
+        "label": "C",
+        "text": "After 1 hour of the round being active"
+      },
+      {
+        "label": "D",
+        "text": "CST bids can be placed at any time"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 185,
+    "question": "In how many different ways can a player place an ETH bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Just one way"
+      },
+      {
+        "label": "B",
+        "text": "Multiple ways: plain ETH bid, ETH bid with Random Walk NFT discount, ETH bid with token donation, ETH bid with NFT donation, or simply sending ETH to the game address"
+      },
+      {
+        "label": "C",
+        "text": "Two ways: with or without a message"
+      },
+      {
+        "label": "D",
+        "text": "Three ways: small, medium, and large bids"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 186,
+    "question": "Scenario: A player places an ETH bid and simultaneously donates an NFT they own to the prize pool. What happens to the donated NFT?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is burned"
+      },
+      {
+        "label": "B",
+        "text": "It is transferred to the Prizes Wallet and can be claimed by the round's main prize winner (or anyone after timeout)"
+      },
+      {
+        "label": "C",
+        "text": "It stays in the player's wallet"
+      },
+      {
+        "label": "D",
+        "text": "It goes directly to the last bidder"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 187,
+    "question": "What is the approximate percentage of the ETH pool that stays in the game after prize distribution? (Add up: 25 + 8 + 4 + 6 + 7 = 50% distributed.)",
+    "options": [
+      {
+        "label": "A",
+        "text": "25% remains"
+      },
+      {
+        "label": "B",
+        "text": "50% remains"
+      },
+      {
+        "label": "C",
+        "text": "75% remains"
+      },
+      {
+        "label": "D",
+        "text": "0% remains"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 188,
+    "question": "If the game has been running for 50 rounds and approximately 50% of ETH stays each round, won't the pool eventually become huge?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, because 100% is always distributed"
+      },
+      {
+        "label": "B",
+        "text": "Yes, the pool grows as new ETH from bids continuously enters while only ~50% leaves each round -- this creates growing prize pools over time"
+      },
+      {
+        "label": "C",
+        "text": "No, the pool stays constant"
+      },
+      {
+        "label": "D",
+        "text": "The pool actually shrinks each round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 189,
+    "question": "How are the raffle prize winners for ETH selected differently than the raffle winners for Cosmic Signature NFTs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They use different random methods"
+      },
+      {
+        "label": "B",
+        "text": "They are selected using the same random mechanism -- random draws from all bids in the round -- but they are separate draws, so a player could win both an ETH raffle and an NFT raffle"
+      },
+      {
+        "label": "C",
+        "text": "ETH raffle uses skill-based selection"
+      },
+      {
+        "label": "D",
+        "text": "NFT raffle only includes stakers"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 190,
+    "question": "Can a bidder who placed only one bid in a round with 100 total bids still win a raffle prize?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, you need at least 10 bids to qualify"
+      },
+      {
+        "label": "B",
+        "text": "Yes -- even a single bid gives them a 1-in-100 chance per raffle draw"
+      },
+      {
+        "label": "C",
+        "text": "No, only the top bidders qualify"
+      },
+      {
+        "label": "D",
+        "text": "Only if they used a Random Walk NFT"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 191,
+    "question": "Scenario: Alice placed 40 out of 100 bids in a round. There are 3 ETH raffle draws. What is the approximate probability that Alice wins at least one ETH raffle prize?",
+    "options": [
+      {
+        "label": "A",
+        "text": "40%"
+      },
+      {
+        "label": "B",
+        "text": "About 78% (1 minus the probability of losing all 3 draws: 1 - (60/100)^3)"
+      },
+      {
+        "label": "C",
+        "text": "100%"
+      },
+      {
+        "label": "D",
+        "text": "12%"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 192,
+    "question": "The game supports \"ETH donations with info\" -- players can donate ETH and attach a message. How is this different from a regular bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It's the same as bidding"
+      },
+      {
+        "label": "B",
+        "text": "Donations add ETH to the pool and record a message, but do NOT count as a bid -- the donor does not become the last bidder and the timer is not extended"
+      },
+      {
+        "label": "C",
+        "text": "Donations replace the current bid price"
+      },
+      {
+        "label": "D",
+        "text": "Donations are not allowed"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 193,
+    "question": "What happens to the CST Dutch auction starting price for the NEXT round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is reset to a fixed default"
+      },
+      {
+        "label": "B",
+        "text": "It is carried forward from the first CST bid of the current round -- the price that was set when the first CST bid was placed becomes the starting point for the next round's first CST auction"
+      },
+      {
+        "label": "C",
+        "text": "It is always 200 CST"
+      },
+      {
+        "label": "D",
+        "text": "It doubles from the current round"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 194,
+    "question": "Scenario: In round 5, the first ETH bid price is 0.001 ETH. The next round's starting Dutch auction price will be 0.002 ETH (double). If the first bid in round 6 goes through at 0.0015 ETH (after the price drops from 0.002), what does the round 7 starting price become?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.0015 ETH"
+      },
+      {
+        "label": "B",
+        "text": "0.003 ETH (double of the first bid price of round 6)"
+      },
+      {
+        "label": "C",
+        "text": "0.002 ETH"
+      },
+      {
+        "label": "D",
+        "text": "0.004 ETH"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 195,
+    "question": "After 3 consecutive ETH bids in a round (excluding the first which follows the Dutch auction), each bid increases the price by about 1%. If the first bid set the price at 0.001 ETH, approximately what is the price after the third consecutive bid?",
+    "options": [
+      {
+        "label": "A",
+        "text": "About 0.001 ETH (no increase)"
+      },
+      {
+        "label": "B",
+        "text": "About 0.00103 ETH (three compounding ~1% increases)"
+      },
+      {
+        "label": "C",
+        "text": "0.003 ETH (tripled)"
+      },
+      {
+        "label": "D",
+        "text": "0.002 ETH (doubled)"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 196,
+    "question": "The Endurance Champion is the player with the longest single continuous last-bidder streak. But what if nobody outbids the first bidder for the entire round? Is the first (and only) bidder the Endurance Champion?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No -- you need at least two bidders for the Endurance Champion title to be assigned"
+      },
+      {
+        "label": "B",
+        "text": "Yes -- the first bidder held the last-bidder position for the entire round, making them the Endurance Champion"
+      },
+      {
+        "label": "C",
+        "text": "The title is not assigned if there is only one bidder"
+      },
+      {
+        "label": "D",
+        "text": "The game requires at least 10 bids for champion titles"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 197,
+    "question": "Can the Endurance Champion and the Chrono-Warrior be the same person in the same round?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, they must always be different players"
+      },
+      {
+        "label": "B",
+        "text": "Yes -- if the same player held the longest single last-bidder streak AND held the Endurance Champion record for the longest period, they could earn both titles"
+      },
+      {
+        "label": "C",
+        "text": "Only in the first round"
+      },
+      {
+        "label": "D",
+        "text": "Only if there are fewer than 3 bidders"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 198,
+    "question": "A player staked a Cosmic Signature NFT and has earned 2 ETH in rewards. They want to unstake. What happens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They get their NFT back but lose the ETH reward"
+      },
+      {
+        "label": "B",
+        "text": "They get their NFT back AND receive their accumulated ETH reward in the same transaction"
+      },
+      {
+        "label": "C",
+        "text": "They must claim the reward in a separate transaction"
+      },
+      {
+        "label": "D",
+        "text": "The reward is converted to CST"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 199,
+    "question": "Can a player stake multiple Cosmic Signature NFTs at the same time?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, only one NFT per wallet"
+      },
+      {
+        "label": "B",
+        "text": "Yes, and each staked NFT earns rewards independently based on when it was staked"
+      },
+      {
+        "label": "C",
+        "text": "Yes, but all NFTs in a wallet earn the same amount regardless of when they were staked"
+      },
+      {
+        "label": "D",
+        "text": "Only two NFTs maximum"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "id": 200,
+    "question": "Final comprehensive scenario: A round has 40 ETH in the pool. 200 bids were placed by 50 different players. Alice is the last bidder. Bob is the Endurance Champion. Carol is the Chrono-Warrior. Dave placed the last CST bid. The round ends and Alice claims the main prize. Walk through the prize distribution:\n\nMain Prize (25%): Alice gets 10 ETH + 1 CS NFT + 1,000 CST\n\nLast CST Bidder: Dave gets 1 CS NFT + 1,000 CST\n\nEndurance Champion: Bob gets 1 CS NFT + 1,000 CST\n\nChrono-Warrior (8% ETH): Carol gets 3.2 ETH (deposited to Prizes Wallet) + 1 CS NFT + 1,000 CST\n\nBidder ETH Raffle (4% split 3 ways): ~0.533 ETH each to 3 random bidders\n\nBidder NFT Raffle: 10 random bidders each get 1 CS NFT + 1,000 CST\n\nRW NFT Staker Raffle: 10 random stakers each get 1 CS NFT + 1,000 CST (if any are staked)\n\nCS NFT Stakers (6%): 2.4 ETH distributed among all CS NFT stakers\n\nCharity (7%): 2.8 ETH to charity\n\nMarketing: 3,000 CST to Marketing Wallet\n\nApproximately how much ETH remains in the game for round 2?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0 ETH -- everything was distributed"
+      },
+      {
+        "label": "B",
+        "text": "About 20 ETH (approximately 50% remains)"
+      },
+      {
+        "label": "C",
+        "text": "40 ETH -- nothing was distributed"
+      },
+      {
+        "label": "D",
+        "text": "About 30 ETH (75% remains)"
+      }
+    ],
+    "correctAnswer": "B",
+    "difficulty": "hard"
+  }
+]

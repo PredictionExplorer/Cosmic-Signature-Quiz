@@ -1,26 +1,98 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --space-950: #060a12;
+  --space-900: #0a0e1a;
+  --space-800: #111827;
+  --nebula: #06b6d4;
+  --nebula-dim: #14b8a6;
+  --supernova: #f97316;
+  --ember: #ef4444;
+  --starlight: #f59e0b;
+  --starlight-soft: #fbbf24;
+  --mist: #e2e8f0;
+  --mist-dim: #94a3b8;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-space-950: var(--space-950);
+  --color-space-900: var(--space-900);
+  --color-space-800: var(--space-800);
+  --color-nebula: var(--nebula);
+  --color-nebula-dim: var(--nebula-dim);
+  --color-supernova: var(--supernova);
+  --color-ember: var(--ember);
+  --color-starlight: var(--starlight);
+  --color-starlight-soft: var(--starlight-soft);
+  --color-mist: var(--mist);
+  --color-mist-dim: var(--mist-dim);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-space-grotesk);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 1;
   }
 }
 
+@keyframes drift {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes glow-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(6, 182, 212, 0.15);
+  }
+  50% {
+    box-shadow: 0 0 32px rgba(6, 182, 212, 0.35);
+  }
+}
+
+@keyframes question-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-question-in {
+  animation: question-in 0.4s ease-out;
+}
+
+.font-display {
+  font-family: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif;
+}
+
+.animate-twinkle {
+  animation: twinkle var(--twinkle-duration, 3s) ease-in-out infinite;
+}
+
+.animate-drift {
+  animation: drift 18s ease-in-out infinite alternate;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--space-950);
+  color: var(--mist);
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+::selection {
+  background: rgba(6, 182, 212, 0.35);
+  color: #fff;
 }
