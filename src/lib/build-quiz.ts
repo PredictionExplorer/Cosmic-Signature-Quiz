@@ -8,13 +8,21 @@ export function filterByDifficulty(
   return all.filter((q) => q.difficulty === difficulty);
 }
 
-/** One quiz attempt: shuffled question order and shuffled option order per question */
-export function buildShuffledQuiz(questions: readonly QuizQuestion[]): ShuffledQuestion[] {
+/**
+ * One quiz attempt: shuffled question order and shuffled option order per question.
+ * By default only `ratio` of questions are included (random subset after shuffle).
+ */
+export function buildShuffledQuiz(
+  questions: readonly QuizQuestion[],
+  ratio = 0.5,
+): ShuffledQuestion[] {
   const copies = questions.map((q) => ({
     id: q.id,
     question: q.question,
     options: shuffle(q.options.map((o) => ({ ...o }))),
     correctAnswer: q.correctAnswer,
   }));
-  return shuffle(copies);
+  const shuffled = shuffle(copies);
+  const count = Math.ceil(shuffled.length * ratio);
+  return shuffled.slice(0, count);
 }

@@ -8,7 +8,7 @@ const styles: Record<
   basic: {
     href: "/quiz/basic",
     title: "Basic",
-    count: "50 questions",
+    count: "25 questions",
     accent: "from-nebula/25 to-nebula-dim/10",
     ring: "ring-cyan-400/40",
     glow: "group-hover:shadow-[0_0_40px_rgba(6,182,212,0.25)]",
@@ -16,7 +16,7 @@ const styles: Record<
   medium: {
     href: "/quiz/medium",
     title: "Medium",
-    count: "50 questions",
+    count: "25 questions",
     accent: "from-supernova/25 to-ember/10",
     ring: "ring-orange-400/35",
     glow: "group-hover:shadow-[0_0_40px_rgba(249,115,22,0.22)]",
@@ -24,7 +24,7 @@ const styles: Record<
   hard: {
     href: "/quiz/hard",
     title: "Hard",
-    count: "100 questions",
+    count: "50 questions",
     accent: "from-starlight/30 to-supernova/15",
     ring: "ring-amber-400/35",
     glow: "group-hover:shadow-[0_0_40px_rgba(245,158,11,0.2)]",

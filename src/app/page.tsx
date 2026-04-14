@@ -30,8 +30,8 @@ export default function Home() {
         </section>
 
         <footer className="mt-auto pt-20 text-center text-xs text-mist-dim/70">
-          Each question has exactly one correct answer. Order of questions and answers is
-          randomized each run.
+          Each question has exactly one correct answer. A random selection of questions is drawn
+          each run, so no two attempts are alike.
         </footer>
       </main>
     </div>
