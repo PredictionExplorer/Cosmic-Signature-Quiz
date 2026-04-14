@@ -46,6 +46,21 @@ export function QuizSession({ difficulty }: Props) {
     };
   }, []);
 
+  const goToNextQuestion = useCallback(() => {
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
+      timeoutRef.current = null;
+    }
+    const isLast = index + 1 >= total;
+    if (isLast) {
+      setPhase("done");
+      setSelected(null);
+    } else {
+      setSelected(null);
+      setIndex((i) => i + 1);
+    }
+  }, [index, total]);
+
   const handleSelect = useCallback(
     (label: AnswerLabel) => {
       if (selected !== null || !current || phase !== "quiz") return;
@@ -54,19 +69,14 @@ export function QuizSession({ difficulty }: Props) {
       if (correct) setScore((s) => s + 1);
 
       if (timeoutRef.current) clearTimeout(timeoutRef.current);
-      timeoutRef.current = setTimeout(() => {
-        timeoutRef.current = null;
-        const isLast = index + 1 >= total;
-        if (isLast) {
-          setPhase("done");
-          setSelected(null);
-        } else {
-          setSelected(null);
-          setIndex((i) => i + 1);
-        }
-      }, ADVANCE_MS);
+      if (correct) {
+        timeoutRef.current = setTimeout(() => {
+          timeoutRef.current = null;
+          goToNextQuestion();
+        }, ADVANCE_MS);
+      }
     },
-    [current, index, phase, selected, total],
+    [current, goToNextQuestion, phase, selected],
   );
 
   useEffect(() => {
@@ -94,6 +104,20 @@ export function QuizSession({ difficulty }: Props) {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [current, handleSelect, phase, selected]);
+
+  useEffect(() => {
+    if (phase !== "quiz" || !current || selected === null) return;
+    if (selected === current.correctAnswer) return;
+
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key !== "Enter" || e.defaultPrevented) return;
+      e.preventDefault();
+      goToNextQuestion();
+    };
+
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [current, goToNextQuestion, phase, selected]);
 
   const feedback = useMemo(() => {
     if (!current || selected === null) return null;
@@ -150,6 +174,15 @@ export function QuizSession({ difficulty }: Props) {
           >
             {feedback.text}
           </p>
+        )}
+        {feedback && !feedback.ok && (
+          <button
+            type="button"
+            onClick={goToNextQuestion}
+            className="mt-6 rounded-xl bg-linear-to-r from-nebula to-nebula-dim px-6 py-3.5 font-medium text-space-950 transition hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-nebula focus-visible:ring-offset-2 focus-visible:ring-offset-space-950"
+          >
+            {index + 1 < total ? "Next question" : "See results"}
+          </button>
         )}
         {selected === null && (
           <p className="text-xs text-mist-dim/80">
