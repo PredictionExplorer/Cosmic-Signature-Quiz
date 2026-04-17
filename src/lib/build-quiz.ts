@@ -21,6 +21,7 @@ export function buildShuffledQuiz(
     question: q.question,
     options: shuffle(q.options.map((o) => ({ ...o }))),
     correctAnswer: q.correctAnswer,
+    explanation: q.explanation,
   }));
   const shuffled = shuffle(copies);
   const count = Math.ceil(shuffled.length * ratio);
